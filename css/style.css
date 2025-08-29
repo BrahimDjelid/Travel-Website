@@ -500,6 +500,7 @@ header .box h1 {
 
 @media (max-width: 767px) {
   .stories .container .boxes {
+  grid-template-columns: minmax(150px, 1fr);
     gap: 10px;
   }
 }
