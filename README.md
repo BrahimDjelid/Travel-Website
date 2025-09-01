@@ -12,7 +12,7 @@ It showcases travel destinations and offers a layout for listing houses, flats, 
 - 🗜️ Includes both a **minified CSS file** and an **unminified version** for editing  
 
 ## 🚀 Live Preview
-👉 [StayBnB Demo](https://brahimdjelid.github.io/Travel-Website/)  
+👉 [StayBnB Demo](https://brahimdjelid.github.io/travel-website/)  
 
 ## 🛠️ Built With
 - **HTML5** – structure  
